@@ -20,7 +20,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "name": "iPhone 7",
   "nameIsFixed": false,
   "resizingConstraint": 63,
@@ -36,7 +36,7 @@
   "hasClickThrough": true,
   "layers": [
     {
-      "id": "615829A6-CA4A-4253-AB9A-B57428F8FF77",
+      "id": "C732D074-465A-41B0-8AFC-6C183A0B4E95",
       "class": "shapeGroup"
     }
   ],
